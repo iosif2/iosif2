@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Иосиф</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iosif2&label=Profile%20views&color=0e75b6&style=flat" alt="iosif2" /> </p>
 
-- 🌱 I’m currently learning **Programming and Pentesting**
+- 🌱 I’m currently learning **Backend & Linux Kernel Programming**
 
 - 📫 How to reach me **iosif2@iosif.dev**
 
